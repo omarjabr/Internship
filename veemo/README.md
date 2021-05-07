@@ -1,3 +1,7 @@
+#Upon installation run
+
+$ npm install
+
 #To run json Server
 
 $ json-server --watch db.json --static ./src/images/thumbnails --port 9000
